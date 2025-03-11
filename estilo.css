@@ -1,0 +1,31 @@
+h1 {
+    background-color: red;
+}
+
+#bot1 {
+    background-color: #33ff00;
+    color: #141414;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+/* Estilizando elementos <div> */
+.container {
+    background-color: darkgrey;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.box {
+    width: 10%;
+    height: 50px;
+    background-color: #3498db;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    border: 2px solid #2980b9;
+}
